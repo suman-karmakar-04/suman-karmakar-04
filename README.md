@@ -19,7 +19,7 @@
 <a href="https://twitter.com/@sumankarmakar44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sumankarmakar44" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suman karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman karmakar" height="30" width="40" /></a>
 <a href="https://fb.com/suman karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suman karmakar" height="30" width="40" /></a>
-<a href="https://instagram.com/s_u_m_a_n_285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_u_m_a_n_285" height="30" width="40" /></a>
+<a href="https://instagram.com/s_u_m_a_n_285" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_u_m_a_n_285" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
