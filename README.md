@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my details are available at [suman-karmakar.vercel.app] (suman-karmakar.vercel.app)
+- 👨‍💻 All of my details are available at [suman-karmakar.vercel.app](suman-karmakar.vercel.app)
 
 - 📫 How to reach me **karmakarsuman285@gmail.com**
 
