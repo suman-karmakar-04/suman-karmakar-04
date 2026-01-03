@@ -58,6 +58,10 @@
 </p>
 
 
+<h3 align="center">✨ "Code. Learn. Grow. Repeat." ✨</h3>
+
+
+
 
 
 <!--
@@ -74,4 +78,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-](https://github.com/suman-karmakar-04/suman-karmakar-04/blob/main/cover%20pic.png)
