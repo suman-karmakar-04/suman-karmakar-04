@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **karmakarsuman285@gmail.com**
 
-- ⚡ Fun fact **I am funny***
+- ⚡ Fun fact **I am funny**
 
 ---
 
@@ -23,7 +23,7 @@
   <a href="www.linkedin.com/in/sumankarmakar2004/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:karmakarsuman285@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/suman-karmakar-04"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-   <a href="www.instagram.com/sumankarmakar___/target="_blank"><img src="https://img.shields.io/badge/Instagram-%230A66C2.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="www.instagram.com/sumankarmakar___/ target="_blank"><img src="https://img.shields.io/badge/Instagram-%230A66C2.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="www.facebook.com/profile.php?id=100092279490603 target="_blank"><img src="https://img.shields.io/badge/Facebook-%230A66C2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
