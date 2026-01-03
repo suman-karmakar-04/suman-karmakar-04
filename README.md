@@ -31,6 +31,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-karmakar-04&" alt="suman-karmakar-04" /></p>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SumanKarmakar467&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
 
 <!--
 **suman-karmakar-04/suman-karmakar-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
