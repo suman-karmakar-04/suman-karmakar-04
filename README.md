@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-karmakar-04&label=Profile%20views&color=0e75b6&style=flat" alt="suman-karmakar-04" /> </p> 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working on **Full-Stack Web Development**
 
 - 👨‍💻 All of my details are available at [sumankarmakar.vercel.app](https://sumankarmakar.vercel.app)
 
