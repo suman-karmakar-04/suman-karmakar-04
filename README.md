@@ -1,4 +1,4 @@
-![logo](https://github.com/suman-karmakar-04/suman-karmakar-04/blob/main/cover%20pic.png)
+<!-- ![logo](https://github.com/suman-karmakar-04/suman-karmakar-04/blob/main/cover%20pic.png) -->
 <h1 align="center">Hi 👋, I'm Suman Karmakar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
