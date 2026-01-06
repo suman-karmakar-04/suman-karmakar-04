@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently working on **Full-Stack Web Development**
 - 👨‍💻 All of my details are available at [sumankarmakar.vercel.app](https://sumankarmakar.vercel.app)
-- 👯 Open to Open Source Collaboration
 - 📫 How to reach me **karmakarsuman285@gmail.com**
+- 👯 Open to Open Source Collaboration
 - ⚡ Fun fact **I am funny**
 
 ---
